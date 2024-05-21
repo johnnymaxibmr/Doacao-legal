@@ -1,0 +1,35 @@
+@charset "UTP=8";
+
+body{
+    background-color: #D9B88F;
+    font-family: cursive;
+}
+
+h1{
+    color: #733B2F;
+}
+
+h2{
+    color: #D93636;
+}
+
+#Unico{
+    color: #441b13;
+    text-align: center;
+    background-image: linear-gradient(to right, white, #A6785D, white);
+}
+.cor1{
+    color: #884738;
+    background-color: #f1dcc1;
+}
+.cor2{
+    color: #c43131;
+}
+.fonte1{
+    font-family: monospace;
+    font-size: 20px;
+}
+.fonte2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
